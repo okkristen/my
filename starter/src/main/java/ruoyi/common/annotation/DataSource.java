@@ -1,6 +1,5 @@
 package ruoyi.common.annotation;
 
-//import com.ruoyi.common.enums.DataSourceType;
 
 import ruoyi.common.enums.DataSourceType;
 

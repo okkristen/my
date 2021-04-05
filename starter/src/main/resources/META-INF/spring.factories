@@ -1,1 +1,1 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=config.MybatisConfig,autoConfiguration.AutoConfiguration,bean.controllers.ControllerConfig,bean.services.ServiceConfig,bean.mapper.MapperConfig
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=config.MybatisConfig,autoConfiguration.AutoConfiguration

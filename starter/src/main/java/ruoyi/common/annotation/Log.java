@@ -1,7 +1,5 @@
 package ruoyi.common.annotation;
 
-//import com.ruoyi.common.enums.BusinessType;
-//import com.ruoyi.common.enums.OperatorType;
 
 import ruoyi.common.enums.BusinessType;
 import ruoyi.common.enums.OperatorType;

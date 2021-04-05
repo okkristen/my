@@ -1,1 +1,1 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=config.MybatisConfig,autoConfiguration.AutoConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=config.MybatisConfig,autoConfiguration.AutoConfiguration,ruoyi.config.ControllerConfig

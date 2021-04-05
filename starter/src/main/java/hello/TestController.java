@@ -22,8 +22,6 @@ public class TestController {
     @Autowired
     private UserService userService;
 
-
-
     @RequestMapping("okkristen")
     public String aaa() {
         System.out.println("测试策划"+helloWorld.getAge());

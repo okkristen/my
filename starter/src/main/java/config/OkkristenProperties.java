@@ -17,6 +17,8 @@ public class OkkristenProperties {
     private String password;
 
 
+
+
     public String getDriverClass() {
         return driverClass;
     }

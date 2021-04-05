@@ -54,20 +54,6 @@ public class AutoConfiguration {
         return userService;
     }
 
-//    @Bean
-//    @ConditionalOnBean(MybatisConfig.class)// 当PersonService这个类在类路径中时，且当前容器中没有这个Bean的情况下，开始自动配置
-//    public TestMapper testMapper(@Autowired SqlSessionFactoryBean sqlSessionFactoryBean){
-//
-//        SqlSessionFactory sqlSessionFactory = null;
-//        try {
-//            sqlSessionFactory = sqlSessionFactoryBean.getObject();
-//        } catch (Exception e) {
-//            e.printStackTrace();
-//        }
-//        SqlSession session = sqlSessionFactory.openSession(ExecutorType.BATCH);
-//        TestMapper  testMapper = session.getMapper(TestMapper.class);
-//        return testMapper;
-//    }
 
 
 }
